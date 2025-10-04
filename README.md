@@ -25,7 +25,7 @@ The app includes the following main pages:
 - Play different games / بازی چند بازی مختلف  
 - Create and watch live sessions / امکان ایجاد و مشاهده لایو  
 - Profile management / مدیریت پروفایل کاربران  
-- Smooth navigation between pages / ناوبری روان بین صفحات  
+- Smooth navigation between pages / جابجایی روان بین صفحات  
 - Built with Flutter for cross-platform support / ساخته شده با Flutter برای پشتیبانی از چند پلتفرم  
 
 ---
